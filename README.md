@@ -35,6 +35,5 @@ To run this project smoothly, follow the steps given below:
    - The data will be fetched from the API and stored in the PostgreSQL database.
 
 6. **Run the Frontend:**
-   - Open the project and run the project `node server.js`.
-   - Then go to `http://localhost:3000`
+   - Then go to `http://localhost:3000` on browser.
    - The desired frontend and the data from the backend will be displayed there successfully.
